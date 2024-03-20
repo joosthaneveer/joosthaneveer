@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joost Haneveer
 - 📰 My blog: https://joost.haneveer.nl
-- 📫 I'm on Twitter <a rel="me nofollow" href="https://twitter.com/joosthaneveer">https://twitter.com/joosthaneveer</a>
+- 📫 I'm on X <a rel="me nofollow" href="https://twitter.com/joosthaneveer">https://twitter.com/joosthaneveer</a>
 - 📫 I'm on Mastodon <a rel="me nofollow" href="https://hachyderm.io/@joosthaneveer">https://hachyderm.io/@joosthaneveer</a>
 
 <!---
